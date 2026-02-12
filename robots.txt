@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://tko-dev.github.io/al-folio/sitemap.xml
+Sitemap: https://tko-dev.github.io/sitemap.xml
