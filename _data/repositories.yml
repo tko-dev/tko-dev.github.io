@@ -1,14 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - tko-dev 
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - UMich-RobotExploration/manta-ray
+  - smarc-project/smarc2
+  - smarc-project/SMARCAssets
